@@ -1,0 +1,123 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    /* font-family: 'Montserrat'; */
+}
+
+.section-for-home{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    /* background-image: linear-gradient(to top right, #fbfaba, #abcdef); */
+    background: black;
+    color: whitesmoke;
+    overflow: hidden;
+}
+
+.section-for-home h1{
+    margin: 2rem;
+    font-size: 3rem;
+}
+
+.section-for-home span{
+    color: black;
+    display: inline-block;
+    transition: all .5s ease-in;
+}
+
+span.fade{
+    color: whitesmoke;
+}
+
+.section-for-home .buttons{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.buttons{
+    opacity: 0;
+    transition: all 4s ease-in-out;
+}
+
+.buttons.fade{
+    opacity: 1;
+}
+
+
+.buttons .play,
+.how-to-play{
+    margin: 1rem;
+    padding: .5rem 2rem;
+    border-radius: 20px;
+    outline: none;
+    border: 2px solid whitesmoke;
+    background: none;
+    font-size: 1rem;
+    font-weight: 500;
+    cursor: pointer;
+    color: whitesmoke;
+    transition: background .2s ease-in;
+}
+
+.play a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+.bp:hover{
+    background: whitesmoke;
+    color: black
+}
+
+.bp:hover a{
+    color: black;
+}
+
+.how-to-section{
+    position: absolute;
+    background: white;
+    top: 0;
+    right: 0%;
+    height: 100vh;
+    transition: width 0.5s ease-in-out;
+    width: 0;
+    overflow-x: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 5rem;
+    text-align: justify;
+    visibility: hidden;
+}
+
+.how-to-section .clos{
+    position: absolute;
+    top: 2%;
+    left: 2%;
+    font-size: 1rem;
+    transform: translate(-2%, -2%);
+    cursor: pointer;
+}
+
+.how-to-section h1{
+    margin: 2rem;
+    font-size: 2rem;
+    letter-spacing: 5px;
+}
+
+.how-to-section ul{
+    list-style: none;
+}
+
+.how-to-section ul li{
+    padding: 1rem;
+    font-size: 16px;
+}

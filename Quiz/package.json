@@ -1,0 +1,290 @@
+{
+
+"Users": [
+        {
+            "id": 1,
+            "question": "Which club is sometimes referred to as FC Hollywood?",
+            "answer": "FC Bayern Munich",
+            "wrong1": "Real Madrid",
+            "wrong2": "Barcelona",
+            "wrong3": "Manchester United"
+        },
+        {
+            "id": 2,
+            "question": "In football, which team has won the Champions League (formerly the European Cup) the most",
+            "answer": "RealMadrid",
+            "wrong1": "Barcelona",
+            "wrong2": "Ac Milan",
+            "wrong3": "Liverpool"
+
+        },
+        {
+            "id": 3,
+            "question": "Which MLS franchise team does David Beckham own?",
+            "answer": "Inter Miami",
+            "wrong1": "LA Galaxy",
+            "wrong2": "New England",
+            "wrong3": "San Jose"
+        },
+        {
+            "id": 4,
+            "question": "Who won the FIFA Women's World Cup in 2019?",
+            "answer": "USA",
+            "wrong1": "Germany",
+            "wrong2": "France",
+            "wrong3": "Spain"
+        },
+
+        {
+            "id": 5,
+            "question": "After Juventus, AC Milan and Inter, with nine Scudettos, which team has won the most Serie A titles?",
+            "answer": "Genoa",
+            "wrong1": "Bologna",
+            "wrong2": "Roma",
+            "wrong3": "Torino"
+        },
+
+        {
+            "id": 6,
+            "question": "I was the first Liverpool player to win the Ballon d'Or. I scored 40 goals for my country and have played in England and Spain.",
+            "answer": "Michael Owen",
+            "wrong1": "Robbie Fowler",
+            "wrong2": "George Weah",
+            "wrong3": "Igor Belanov"
+        },
+
+        {
+            "id": 7,
+            "question": "With 365 goals, who holds the record for top Bundesliga goalscorer of all time?",
+            "answer": "Gerd Muller",
+            "wrong1": "Robert Lewandowski",
+            "wrong2": "Mario Gomes",
+            "wrong3": "Karl-Heinz Rummenigge"
+        },
+
+        {
+            "id": 8,
+            "question": "Which manager was famously said to have given players 'the Hairdryer Treatment'?",
+            "answer": "Sir Alex Ferguson",
+            "wrong1": "Jose Mourinho",
+            "wrong2": "Arsene Wenger",
+            "wrong3": "Pep Guardiola"
+        },
+
+        {
+            "id": 9,
+            "question": "Who was the player of the match in final of football world cup 1998?",
+            "answer": "Zinedine Zidane",
+            "wrong1": "Ronaldo",
+            "wrong2": "Rivaldo",
+            "wrong3": "Spain"
+        },
+
+        {
+            "id": 10,
+            "question": "The fastest goal scored in Premier League history came in 7.69 seconds. Who scored it",
+            "answer": "Shane Long",
+            "wrong1": "Sadio Mane",
+            "wrong2": "Robbie Fowler",
+            "wrong3": "Danny Welbeck"
+        },
+
+        {
+            "id": 11,
+            "question": "With 202 clean sheets, which goalkeeper has the best record in the Premier League",
+            "answer": "Petr Cech",
+            "wrong1": "Edwin Van Der Sar",
+            "wrong2": "Peter Schmeichel",
+            "wrong3": "David Seaman"
+        },
+
+        {
+            "id": 12,
+            "question": "The record number of World Cup goals is 16, scored by who",
+            "answer": "Miroslav Klose",
+            "wrong1": "Ronaldo",
+            "wrong2": "Pele",
+            "wrong3": "Gerd Muller"
+        },
+
+        {
+            "id": 13,
+            "question": "There have been two World Cup trophies. What was the name of the first",
+            "answer": "Jules Rimet Trophy",
+            "wrong1": "Lapis Lezuli Trophy",
+            "wrong2": "Coupe Morek Trophy",
+            "wrong3": "Alvaro Cunyo Trophy"
+        },
+
+        {
+            "id": 14,
+            "question": "Three people have won the World Cup as a player and as a coach. Mario Zagallo, Didier Deschamps and... can you name the third?",
+            "answer": "Franz Beckenbaeur",
+            "wrong1": "Didi",
+            "wrong2": "Johan Cruijff",
+            "wrong3": "Lothar Matthäus"
+        },
+
+        {
+            "id": 15,
+            "question": "Which Spanish club's nickname is Los Colchoneros, which translates to English as 'The Mattress Makers'",
+            "answer": "Athletico Madrid",
+            "wrong1": "Real Madrid",
+            "wrong2": "Real Betis",
+            "wrong3": "Athletic Bilbao"
+        },
+
+        {
+            "id": 16,
+            "question": "Messi has spent his entire professional career at Barcelona, but what was his schoolboy team?",
+            "answer": "Newell's Old Boys",
+            "wrong1": "River Plate",
+            "wrong2": "Boca Juniors",
+            "wrong3": "Argentinos Juniors"
+        },
+
+        {
+            "id": 17,
+            "question": "Ronaldo is synonymous with the No.7, but what other number did he wear at Real Madrid",
+            "answer": "9",
+            "wrong1": "8",
+            "wrong2": "11",
+            "wrong3": "6"
+        },
+
+        {
+            "id": 18,
+            "question": "Messi wore the No.30 at the start of his Barca career and is now No.10. What other number has he worn for the club?",
+            "answer": "19",
+            "wrong1": "15",
+            "wrong2": "11",
+            "wrong3": "21"
+        },
+
+        {
+            "id": 19,
+            "question": "Who is the only player to win the Champions League with three different clubs?",
+            "answer": "Clarence Seedorf",
+            "wrong1": "Marco Van Basten",
+            "wrong2": "Frank Rijkaard",
+            "wrong3": "Zinedine Zidane"
+        },
+
+        {
+            "id": 20,
+            "question": "Which outfield player appeared in the Champions League final in three different decades?",
+            "answer": "Ryan Giggs",
+            "wrong1": "Zlatan Ibrahimovic",
+            "wrong2": "Ronaldinho",
+            "wrong3": "Fransesco Totti"
+        },
+
+        {
+            "id": 21,
+            "question": "Which team was the first from the UK to win the European Cup?",
+            "answer": "Celtic",
+            "wrong1": "Nottingham Forest",
+            "wrong2": "Liverpool",
+            "wrong3": "Manchester United"
+        },
+
+        {
+            "id": 22,
+            "question": "Which player holds the record for most Champions League winners' medals?",
+            "answer": "Francisco Gento",
+            "wrong1": "Alfredo de Stefano",
+            "wrong2": "Cristiano Ronaldo",
+            "wrong3": "Sergio Ramos"
+        },
+
+        {
+            "id": 23,
+            "question": "With nine goals, who scored the most goals in a single European Championship tournament?",
+            "answer": "Michel Platini",
+            "wrong1": "Paulo Rossi",
+            "wrong2": "Alan Shearer",
+            "wrong3": "Johan Cruiff"
+        },
+
+        {
+            "id": 24,
+            "question": "The Euro 2000 final between France and Italy was decided by Golden Goal. Which player scored the goal?",
+            "answer": "David Trezeguet",
+            "wrong1": "Zinedine Zidane",
+            "wrong2": "Patrick Viera",
+            "wrong3": "Thierry Henry"
+        },
+
+        {
+            "id": 25,
+            "question": "Which Premier League winner’s father played rugby for Wales?",
+            "answer": "Ryan Giggs",
+            "wrong1": "Gareth Bale",
+            "wrong2": "Daniel James",
+            "wrong3": "Aaron Ramsey"
+        },
+
+        {
+            "id": 26,
+            "question": "Who scored the first ‘perfect hat-trick’ (left foot, right foot, and header) in the Premier League?",
+            "answer": "Jimmy Floyd Hasselbaink",
+            "wrong1": "Robbie Fowler",
+            "wrong2": "Eric Cantona",
+            "wrong3": "Ryan Giggs"
+        },
+
+        {
+            "id": 27,
+            "question": "Which player went through the Ajax youth system, played for Ajax and became Assistant Manager at the club in 2011?",
+            "answer": "Dennis Bergkamp",
+            "wrong1": "Johan Cruiff",
+            "wrong2": "Marco Van Basten",
+            "wrong3": "Ruud Gullit"
+        },
+
+        {
+            "id": 28,
+            "question": "The winners of the UEFA Champions League and the UEFA Europe League compete for which sporting trophy?",
+            "answer": "UEFA Super Cup",
+            "wrong1": "UEFA Winners Cup",
+            "wrong2": "UEFA Confederations Cup",
+            "wrong3": "UEFA Champions Cup"
+        },
+
+        {
+            "id": 29,
+            "question": "Name the player that, aged forty, was the oldest World Cup winning captain?",
+            "answer": "Dino Zoff",
+            "wrong1": "Bobby Moore",
+            "wrong2": "Carlos Alberto",
+            "wrong3": "Cafu"
+        },
+
+        {
+            "id": 30,
+            "question": "Who is the highest scorer in World Cup finals for the Netherlands, with seven goals?",
+            "answer": "Johnny Rep",
+            "wrong1": "Marco Van Basten",
+            "wrong2": "Ruud Gullit",
+            "wrong3": "Johan Cruiff"
+        },
+
+        {
+            "id": 31,
+            "question": "Which was the first FIFA World Cup Finals tournament to feature substitutes?",
+            "answer": "Mexico 1970",
+            "wrong1": "Brazil 1950",
+            "wrong2": "France 1938",
+            "wrong3": "Spain 1982"
+        },
+
+        {
+            "id": 32,
+            "question": "Which two teams competed in the first all-English major European Cup Final?",
+            "answer": "Tottenham - Wolverhampton",
+            "wrong1": "Nottingham - Leeds",
+            "wrong2": "Liverpool - Nottingham",
+            "wrong3": "Manchester United - Nottingham"
+        }
+    ]
+}
